@@ -4,7 +4,7 @@ A responsive clone of the Apple.com homepage built using HTML & CSS. This projec
 
 ## Live Demo
 
-Open `HTML/index.html` in any modern browser to view the project.
+Click here: https://tcintern-009.github.io/Apple-hero-section-clone/
 
 ## Project Structure
 
